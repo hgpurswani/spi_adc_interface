@@ -1,6 +1,7 @@
 # spi_adc_interface
 
 README
+
 Error while synthesizing the spi_master.v file in the yosys is as follows:
 
 4.2.7. Executing PROC_DFF pass (convert process syncs to FFs).
