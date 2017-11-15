@@ -16,7 +16,7 @@ Error while synthesizing the spi_master.v file in the yosys is as follows:
 
 >Creating register for signal `\spi_top.\per_din_spi' using process `\spi_top.$proc$/home/hardeep/Desktop/RK/spi_and_adc_RK/spi_top.v:98$19'.
 
-> created $dff cell `$procdff$542' with positive edge clock.
+>created $dff cell `$procdff$542' with positive edge clock.
 
 >Creating register for signal `\spi_top.\count_s2p' using process `\spi_top.$proc$/home/hardeep/Desktop/RK/spi_and_adc_RK/spi_top.v:60$14'.
 
