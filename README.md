@@ -32,7 +32,7 @@ Error while synthesizing the spi_master.v file in the yosys is as follows:
 
 >Creating register for signal `\spi_top.\s2p_out' using process `\spi_top.$proc$/home/hardeep/Desktop/RK/spi_and_adc_RK/spi_top.v:60$14'.
 
-> created $dff cell `$procdff$546' with positive edge clock.
+>created $dff cell `$procdff$546' with positive edge clock.
 
 >Creating register for signal `\spi_master.\SS' using process `\spi_master.$proc$/home/hardeep/Desktop/RK/spi_and_adc_RK/spi_master.v:81$7'.
 
